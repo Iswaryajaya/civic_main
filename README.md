@@ -290,4 +290,3 @@ When using convex, make sure:
 - Always use the `@/folder` path, with `@/convex/folder/file.ts` syntax for importing convex files.
 - This includes importing generated files like `@/convex/_generated/server`, `@/convex/_generated/api`
 - Remember to import functions like useQuery, useMutation, useAction, etc. from `convex/react`
-- NEVER have return type validators.
